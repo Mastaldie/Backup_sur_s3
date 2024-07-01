@@ -1,7 +1,7 @@
 #backup sur s3
 #crée un dossier 
 mkdir file_name
-#crée un role et un S3 puis donner les autorisations IAM fullacces S3,puis lier IAM a l'instance EC2
+#Acceder a la plate-forme amazon web service,puis crée un role et un bucket S3 puis donner les autorisations IAM fullacces S3,puis lier IAM a l'instance EC2
 #zipper le dossier avec un script shell et la sauvegarder sur s3
 
 
